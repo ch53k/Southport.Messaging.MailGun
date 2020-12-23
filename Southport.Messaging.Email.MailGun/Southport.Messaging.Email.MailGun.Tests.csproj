@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Southport.Messaging.MailGun\Southport.Messaging.MailGun.csproj" />
+    <ProjectReference Include="..\Southport.Messaging.MailGun\Southport.Messaging.Email.MailGun.csproj" />
   </ItemGroup>
 
 </Project>
